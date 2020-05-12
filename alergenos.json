@@ -1,0 +1,72 @@
+{
+    "altramuces": {
+        "name": "Altramuces",
+        "id": "altramuces",
+        "src": "alergenos/altramuces.png"
+    },
+    "apio": {
+        "name": "Apio",
+        "id": "apio",
+        "src": "alergenos/apio.png"
+    },
+    "cacahuetes": {
+        "name": "Cacahuetes",
+        "id": "cacahuetes",
+        "src": "alergenos/cacahuetes.png"
+    },
+    "crustaceos": {
+        "name": "Crustaceos",
+        "id": "crustaceos",
+        "src": "alergenos/crustaceos.png"
+    },
+    "dioxido-de-azufre-y-sulfitos": {
+        "name": "Dioxido de Azufre y Sulfitos",
+        "id": "dioxido-de-azufre-y-sulfitos",
+        "src": "alergenos/dioxido-de-azufre-y-sulfitos.png"
+    },
+    "frutos-de-cascara": {
+        "name": "Frutos de Cascara",
+        "id": "frutos-de-cascara",
+        "src": "alergenos/frutos-de-cascara.png"
+    },
+    "gluten": {
+        "name": "Gluten",
+        "id": "gluten",
+        "src": "alergenos/gluten.png"
+    },
+    "granos-de-sesamo": {
+        "name": "Granos de Sesamo",
+        "id": "granos-de-sesamo",
+        "src": "alergenos/granos-de-sesamo.png"
+    },
+    "huevos": {
+        "name": "Huevos",
+        "id": "huevos",
+        "src": "alergenos/huevos.png"
+    },
+    "lacteos": {
+        "name": "Lacteos",
+        "id": "lacteos",
+        "src": "alergenos/lacteos.png"
+    },
+    "moluscos": {
+        "name": "Moluscos",
+        "id": "moluscos",
+        "src": "alergenos/moluscos.png"
+    },
+    "mostaza": {
+        "name": "Mostaza",
+        "id": "mostaza",
+        "src": "alergenos/mostaza.png"
+    },
+    "pescado": {
+        "name": "Pescado",
+        "id": "pescado",
+        "src": "alergenos/pescado.png"
+    },
+    "soja": {
+        "name": "Soja",
+        "id": "soja",
+        "src": "alergenos/soja.png"
+    }
+}

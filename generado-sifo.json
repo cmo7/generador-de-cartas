@@ -1,0 +1,1391 @@
+{
+    "configuration": {
+        "title": "Sifonería",
+        "brand": "Sifonería",
+        "logo": "assets/img/logo.png",
+        "favicon": "assets/img/favicon.ico",
+        "background": "assets/img/bg-masthead.jpg",
+        "copyrightName": "NOHAYWEBS",
+        "copyrightLink": "https://nohaywebs.com"
+    },
+    "productData": {
+        "sections": [{
+                "section": "Bocadillos",
+                "id": "bocadillos",
+                "description": "",
+                "products": [{
+                        "product": "Lomo",
+                        "price": 2.3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "platos/plato-1-papas.jpg",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Lomo - Pulga",
+                        "price": 1.3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Lomo Especial",
+                        "price": 2.9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo",
+                        "price": 2.3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo - Pulga",
+                        "price": 1.3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo Especial",
+                        "price": 2.9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Ternera",
+                        "price": 2.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Ternera Especial",
+                        "price": 3.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Mechada",
+                        "price": 2.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Mechada - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Mechada Especial",
+                        "price": 3.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Papas",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Papas - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Francesa",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Francesa - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pechuga de Pollo",
+                        "price": 3.1,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "platos/plato-1-papas.jpg",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pechuga de Pollo Especial",
+                        "price": 3.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Chacina",
+                        "price": 2.3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Chacina - Pulga",
+                        "price": 1.3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Atún",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "platos/plato-1-papas.jpg",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos",
+                            "pescado"
+                        ]
+                    },
+                    {
+                        "product": "Atún - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos",
+                            "pescado"
+                        ]
+                    },
+                    {
+                        "product": "Tumaca",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tumaca - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Vegetal",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Americano",
+                        "price": 2.9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería",
+                        "price": 3.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Super Sifo",
+                        "price": 4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca",
+                        "price": 3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca Especial",
+                        "price": 3.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca Especial - Pulga",
+                        "price": 1.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "granos-de-sesamo",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section": "Hamburguesas",
+                "id": "hamburguesas",
+                "description": "",
+                "products": [{
+                        "product": "Normal",
+                        "price": 2.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tropical",
+                        "price": 2.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "platos/plato-1-papas.jpg",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Americana",
+                        "price": 3.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Especial",
+                        "price": 3.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería",
+                        "price": 3.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Super Sifo",
+                        "price": 4.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Escalope",
+                        "price": 2.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Escalope Americano",
+                        "price": 3.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Escalope Sifo",
+                        "price": 4.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo",
+                        "price": 2.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section": "Sandwiches",
+                "id": "sandwiches",
+                "description": "",
+                "products": [{
+                        "product": "Mixto",
+                        "price": 1.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Lomo",
+                        "price": 2.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Lomo Especial",
+                        "price": 3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo",
+                        "price": 2.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "platos/plato-1-papas.jpg",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo Especial",
+                        "price": 3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Mechada",
+                        "price": 2.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Francesa",
+                        "price": 2.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pata",
+                        "price": 2.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Atún",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos",
+                            "pescado"
+                        ]
+                    },
+                    {
+                        "product": "Vegetal",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Americano",
+                        "price": 3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Queso Blanco",
+                        "price": 2.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "platos/plato-1-papas.jpg",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tropical",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería",
+                        "price": 3.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Super Sifo",
+                        "price": 4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca",
+                        "price": 3.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Extra de papas",
+                        "price": 1,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section": "Croissants",
+                "id": "croissants",
+                "description": "",
+                "products": [{
+                        "product": "Mixto",
+                        "price": 0.23,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Lomo",
+                        "price": 2.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Pollo",
+                        "price": 2.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Mechada",
+                        "price": 3.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Francesa",
+                        "price": 3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tortilla Papas",
+                        "price": 3,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Atún",
+                        "price": 2.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos",
+                            "pescado"
+                        ]
+                    },
+                    {
+                        "product": "Vegetal",
+                        "price": 2.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Americano",
+                        "price": 3.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Tropical",
+                        "price": 2.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería",
+                        "price": 9.8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Super Sifo",
+                        "price": 4.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca",
+                        "price": 3.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Carne Fresca Especial",
+                        "price": 3.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section": "Papas Locas",
+                "id": "papas-locas",
+                "description": "",
+                "products": [{
+                        "product": "Normales - Pequeñas",
+                        "price": 3.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Normales - Medianas",
+                        "price": 5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Normales - Grandes",
+                        "price": 7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Especailes - Pequeñas",
+                        "price": 4.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Especailes - Medianas",
+                        "price": 7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Especailes - Grandes",
+                        "price": 8.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería - Pequeñas",
+                        "price": 5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería - Medianas",
+                        "price": 8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Sifonería - Grandes",
+                        "price": 10,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Barbacoa - Pequeñas",
+                        "price": 4.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Barbacoa - Medianas",
+                        "price": 7.5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Barbacoa - Grandes",
+                        "price": 9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Anaga Champi - Pequeñas",
+                        "price": 5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Anaga Champi - Medianas",
+                        "price": 8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Anaga Champi - Grandes",
+                        "price": 9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "dioxido-de-azufre-y-sulfitos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Clohe - Pequeñas",
+                        "price": 5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos"
+                        ]
+                    },
+                    {
+                        "product": "Clohe - Medianas",
+                        "price": 8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos"
+                        ]
+                    },
+                    {
+                        "product": "Clohe - Grandes",
+                        "price": 9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos"
+                        ]
+                    },
+                    {
+                        "product": "Kiara - Pequeñas",
+                        "price": 5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Kiara - Medianas",
+                        "price": 8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Kiara - Grandes",
+                        "price": 9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "huevos",
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Teddy - Pequeñas",
+                        "price": 5,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Teddy - Medianas",
+                        "price": 8,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Teddy - Grandes",
+                        "price": 9,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Super Sifo - Grandes",
+                        "price": 12,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section": "Perritos",
+                "id": "perritos",
+                "description": "",
+                "products": [{
+                        "product": "Normal",
+                        "price": 1.7,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Tropical",
+                        "price": 2.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Especial",
+                        "price": 2.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Pollo",
+                        "price": 2.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Barbacoa",
+                        "price": 2.2,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Sifonería",
+                        "price": 2.4,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Super Sifo",
+                        "price": 2.6,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Extra de papas",
+                        "price": 1,
+                        "description": "\"Queso, lechuga, tomate, cebolla y mayonesa\"",
+                        "src": "",
+                        "alergenos": []
+                    }
+                ]
+            },
+            {
+                "section": "Zumos",
+                "id": "zumos",
+                "description": "",
+                "products": [{
+                        "product": "Naranja Grande",
+                        "price": 2.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Naranja Pequeño",
+                        "price": 1.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Combinado 2 Frutas Grande",
+                        "price": 2.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Combinado 2 Frutas Pequeño",
+                        "price": 1.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Combinado 2 Frutas Jarra",
+                        "price": 3,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Vitamínico 2 Frutas Grande",
+                        "price": 3,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Vitamínico 2 Frutas Pequeño",
+                        "price": 1.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Vitamínico 2 Frutas Jarra",
+                        "price": 3.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    }
+                ]
+            },
+            {
+                "section": "Batidos",
+                "id": "batidos",
+                "description": "",
+                "products": [{
+                        "product": "Batido 1 Fruta Grande",
+                        "price": 2.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Batido 1 Fruta Jarra",
+                        "price": 3,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Batido 2 Frutas Grande",
+                        "price": 2.7,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Batido 2 Frutas Jarra",
+                        "price": 3.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Vitamínico 3 Frutas Grande",
+                        "price": 3,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    },
+                    {
+                        "product": "Vitamínico 3 Frutas Jarra",
+                        "price": 3.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": [
+                            "lacteos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section": "Refrescos",
+                "id": "refrescos",
+                "description": "",
+                "products": [{
+                        "product": "Refresco 330ml",
+                        "price": 1.3,
+                        "description": "\"Cocacola, Fanta, etc\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Refresco 350ml",
+                        "price": 1.5,
+                        "description": "\"Nestea, Aquarius, Biter Kas, Appletiser, etc\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Zumbos y Batidos Envasados",
+                        "price": 1.3,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Energético",
+                        "price": 2.2,
+                        "description": "\"Red Bull\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Smirnoff",
+                        "price": 2.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    }
+                ]
+            },
+            {
+                "section": "Cervezas",
+                "id": "cervezas",
+                "description": "",
+                "products": [{
+                        "product": "Cerveza",
+                        "price": 1.3,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Cerveza 2",
+                        "price": 1.4,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Caña",
+                        "price": 1.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Jarra",
+                        "price": 2.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Clara",
+                        "price": 1.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Clara - Jarra",
+                        "price": 2.8,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Tinto de Verano",
+                        "price": 1.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Tinto de Verano - Jarra",
+                        "price": 2.8,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    }
+                ]
+            },
+            {
+                "section": "Cafés",
+                "id": "cafés",
+                "description": "",
+                "products": [{
+                        "product": "Café o Cortado",
+                        "price": 0.8,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Barraquito",
+                        "price": 1,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Barraquito Especial",
+                        "price": 1.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Café con Leche",
+                        "price": 1.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Descafeinado de Máquina",
+                        "price": 1,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Infusión",
+                        "price": 1,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Cola Cao",
+                        "price": 1.5,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Vaso Leche",
+                        "price": 1.2,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    }
+                ]
+            },
+            {
+                "section": "Especial",
+                "id": "especial",
+                "description": "",
+                "products": [{
+                        "product": "Menú Diario",
+                        "price": 7,
+                        "description": "\"Primer y Segundo Plato, Bebida + Postre + Café\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Platos Combinados",
+                        "price": 6,
+                        "description": "\"Calamares, Sardinas, Gueldes, Queso Frito, Huevos Escondidos, Croquetas, etc.\n\nSegun el día.\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Picoteo por Raciones",
+                        "price": 5,
+                        "description": "\"Calamares, Sardinas, Gueldes, Queso Frito, Huevos Escondidos, Croquetas, etc.\n\nSegun el día.\"",
+                        "src": "",
+                        "alergenos": []
+                    },
+                    {
+                        "product": "Montaditos",
+                        "price": 1,
+                        "description": "\"\"",
+                        "src": "",
+                        "alergenos": []
+                    }
+                ]
+            }
+        ]
+    }
+}
