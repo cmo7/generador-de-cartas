@@ -1,0 +1,61 @@
+{
+    "title": "Sifonería",
+    "brand": "Sifonería",
+    "logo": "assets/img/logo.png",
+    "favicon": "assets/img/favicon.ico",
+    "background": "assets/img/bg-masthead",
+    "copyrightName": "NOHAYWEBS",
+    "copyrightLink": "https://nohaywebs.com",
+    "sections": [{
+            "name": "Bocadillos",
+            "id": "bocadillos",
+            "description": "",
+            "products": [{
+                    "name": "Producto 1",
+                    "description": "",
+                    "price": "20€",
+                    "src": "platos/plato-1-papas.jpg",
+                    "alergenos": ["altramuces", "cacahuetes", "soja"]
+                },
+                {
+                    "name": "Producto 2",
+                    "description": "Cosas",
+                    "price": "10€",
+                    "alergenos": ["lacteos", "huevos"]
+                },
+                {
+                    "name": "Producto 3",
+                    "description": "Cosas",
+                    "price": "2,5€",
+                    "alergenos": ["lacteos", "huevos"]
+                }
+            ]
+        },
+        {
+            "name": "Papas",
+            "id": "papas",
+            "description": "",
+            "products": [{
+                    "name": "Producto 1",
+                    "description": "",
+                    "price": "20€",
+                    "src": "platos/plato-1-papas.jpg",
+                    "alergenos": ["altramuces", "cacahuetes", "soja"]
+                },
+                {
+                    "name": "Producto 2",
+                    "description": "Cosas",
+                    "price": "10€",
+                    "alergenos": ["lacteos", "huevos"]
+                },
+                {
+                    "name": "Producto 3",
+                    "description": "Cosas",
+                    "price": "2,5€",
+                    "alergenos": ["lacteos", "huevos"]
+                }
+            ]
+        }
+    ]
+
+}

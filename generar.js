@@ -1,4 +1,5 @@
 const fs = require('fs');
+var QRCode = require('qrcode')
 
 
 
@@ -35,7 +36,6 @@ function headComponent(title, favicon) {
     <link href="css/styles.css" rel="stylesheet" />
 </head>`);
 
-    return content;
 }
 
 
@@ -203,7 +203,7 @@ function bodyComponent(brand, links, logo, background) {
     function navigationComponent(brand, links) {
 
         function linkComponent(link) {
-            return `<li class="nav-item my-3"><a class="nav-link js-scroll-trigger" href="#${link.id}">${link.name}</a></li>`
+            return `<li class="nav-item my-lg-3"><a class="nav-link js-scroll-trigger" href="#${link.id}">${link.name}</a></li>`
         }
 
         let content = `
@@ -287,3 +287,5 @@ fs.writeFile(`tmp/index.html`, document(), function(err) {
     }
     console.log("Generación Completada");
 });
+
+QRCode.toFile(`build/qrcode.png`, `http://dev.nohaywebs.com/cartaweb/`, { scale: 8 })
